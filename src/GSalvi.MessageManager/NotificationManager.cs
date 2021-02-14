@@ -31,7 +31,7 @@ namespace GSalvi.MessageManager
                 throw new ArgumentNullException(nameof(notification));
             }
 
-            _logger.LogError("----- Adding notification to the list.");
+            _logger.LogInformation("----- Adding notification to the list.");
             _notifications.Add(notification);
         }
 
