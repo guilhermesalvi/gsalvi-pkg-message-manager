@@ -3,7 +3,7 @@ in progress...
 
 Este projeto simplifica a utilização de Notification Pattern integrando com os recursos de Localization em aplicações .NET 5.
 
-## Installing via NuGet
+## Instação via NuGet
 
     Install-Package GSalvi.MessageManager
     
